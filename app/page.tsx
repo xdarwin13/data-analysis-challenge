@@ -322,7 +322,7 @@ export default function LandingPage() {
                 <div className="mb-6">
                   <h3 className="text-xl font-bold text-slate-900 mb-2">Pro</h3>
                   <div className="flex items-baseline gap-2">
-                    <span className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">$29</span>
+                    <span className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">$0</span>
                     <span className="text-slate-600">/mes</span>
                   </div>
                   <p className="text-sm text-slate-600 mt-2">Para negocios en crecimiento</p>
@@ -359,7 +359,8 @@ export default function LandingPage() {
                 <div className="mb-6">
                   <h3 className="text-xl font-bold text-slate-900 mb-2">Enterprise</h3>
                   <div className="flex items-baseline gap-2">
-                    <span className="text-4xl font-bold text-slate-900">Custom</span>
+                      <span className="text-4xl font-bold text-slate-900">$0</span>
+                    <span className="text-slate-600">/mes</span>
                   </div>
                   <p className="text-sm text-slate-600 mt-2">Para equipos grandes</p>
                 </div>
